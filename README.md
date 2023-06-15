@@ -1,5 +1,7 @@
 # REST API Server Codeigniter 3.1.1
 
+by Indra Maulana Yasya (20190801079)
+
 # Technology I Use
 
 - Laragon
